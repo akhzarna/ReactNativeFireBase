@@ -1,0 +1,3 @@
+rootProject.name = 'FireBaseDemoReact'
+
+include ':app'
